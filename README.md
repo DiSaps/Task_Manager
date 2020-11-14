@@ -14,4 +14,4 @@
 
 - For the unit test it is used JUnit 4.12 library
 
-**Task TaskManager_DB opens Task Manager which is compliled for use with the Database.
+**Task TaskManager_DB.bat opens Task Manager which is compliled for use with the Database.
